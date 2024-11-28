@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedmpro" alt="saeedmpro" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently focusing on **Backend side** learning
 
 - 📫 How to reach me **mzahry36@gmail.com**
 

@@ -6,7 +6,7 @@ I build backend systems in Go — APIs, services, and the infrastructure that ke
 
 - 💼 Backend Developer at [WeHub](https://mywehub.io)
 - 🎓 Finishing my Bachelor's in Computer Engineering
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saeed-mazahery) — best way to reach me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saeed-mazahery)
 - 📫 [Email](mailto:mzahry36@gmail.com)
 
 ### Stack
